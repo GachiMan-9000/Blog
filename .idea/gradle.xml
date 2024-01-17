@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/memory_repository" />
             <option value="$PROJECT_DIR$/models" />
             <option value="$PROJECT_DIR$/repository" />
+            <option value="$PROJECT_DIR$/sql_repository" />
           </set>
         </option>
       </GradleProjectSettings>
